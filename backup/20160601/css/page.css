@@ -1,0 +1,275 @@
+/*----------------------------------------*/
+/*タイトル背景　　　　　　　　　　　 　                  */
+/*----------------------------------------*/
+#page00 {
+	width:100%;
+	clear:both;
+	height:70px;
+	background: url(../img/common/back04.jpg) repeat-x;
+}
+
+/*----------------------------------------*/
+/*　　　　　　　　　　　　　　　　                      */
+/*----------------------------------------*/
+td{
+	padding: 5px 0px 5px 0px;
+}
+
+.border-dot{
+	width:100%;
+	margin:0 auto;
+	}
+.border-dot td{
+	border-bottom: 1px dashed #D1D1D1;
+	}
+
+
+#ab02 {
+	width:100%;
+	clear:both;
+	background: #D1D1D1;
+	margin:0px auto 20px auto;
+}
+
+
+#ab02_02 {
+	clear:both;
+    padding: 10px;
+}
+
+
+
+/*----------------------------------------*/
+/*記事投稿　　　　　　　　　　　　 　                  */
+/*----------------------------------------*/
+#page01 {
+	width:100%;
+	clear:both;
+	margin-bottom:20px;
+}
+
+#page02 {
+	width:100%;
+	clear:both;
+	padding:0px auto 20px auto;
+}
+
+#page02_l {
+	width:250px;
+	clear:both;
+	float:left;
+}
+
+#page02_r {
+	width:410px;
+	float:right;
+	text-align:left;
+}
+
+#page02_r_01 {
+	width:410px;
+	float:right;
+	text-align:left;
+}
+
+#page02_r_02 {
+	width:410px;
+	float:right;
+	text-align:left;
+}
+
+#page02_r_03 {
+	width:410px;
+	float:right;
+	margin-top:10px;
+	text-align:right;
+}
+
+#page03 {
+	width:680px;
+	clear:both;
+	margin-bottom:20px;
+
+}
+
+
+/*----------------------------------------*/
+/*トップページ　　　　　　　　　　　 　   */
+/*----------------------------------------*/
+.top_box_100_b0 {
+	width:100%;
+	clear:both;
+	margin:0px auto 0px auto;
+	text-align:left;
+}
+
+
+.top_box_100_b0 td{
+	padding: 0px 0px 0px 0px;
+}
+
+
+/*----------------------------------------*/
+/*放送履歴　　　　　　　　　　　 　   */
+/*----------------------------------------*/
+.rireki ul li{
+  padding-bottom: 10px;
+}
+.rireki_etc li{
+  padding-bottom: 2px;
+}
+.hiroshi184 {
+  padding-left: 10px;
+}
+.hiroshi184 li{
+  padding-bottom: 2px !important;
+}
+#hiroshi184_last {
+  padding-bottom: 10px !important;
+}
+/*----------------------------------------*/
+/*三宅の詩　　　　　　　　　　　 　   */
+/*----------------------------------------*/
+.poem_right{
+  float: right;
+  font-size: 12px;
+  vertical-align: bottom;
+}
+
+/*----------------------------------------*/
+/*Q&A  */
+/*----------------------------------------*/
+.q_a{
+    width:100%;
+     overflow: hidden;
+     _zoom: 1;
+    }
+.q_a dt,
+.q_a dd{
+    padding-left:3.1em;
+    margin:0px 0px 0px 0px;
+    background:none no-repeat left top;
+    }
+.q_a dt{
+    background: url(../img/05_qa/q.gif) no-repeat;
+    background-position: 0 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+.q_a dd{
+    background: url(../img/05_qa/a.gif) no-repeat;
+    background-position: 0 0px;
+    padding-top: 4px;
+    padding-bottom: 20px;
+}
+
+
+/*----------------------------------------*/
+/*サイトマップ                            */
+/*----------------------------------------*/
+#sitemap{
+  margin-left: 15px;
+}
+#sitemap li{
+  padding-bottom: 15px;
+}
+
+/*----------------------------------------*/
+/*ページネーション                        */
+/*----------------------------------------*/
+.pagination {
+     clear: both;
+     padding: 20px 0;
+     position: relative;
+     font-size: 14px;
+     line-height: 14px;
+}
+.pagination span, .pagination a {
+     display: block;
+     float: left;
+     width: auto;
+     margin: 2px 2px 2px 0;
+     padding: 5px 9px 5px 9px;
+     background-color: #fff;
+     color: #555;
+     text-decoration: none;
+}
+.pagination a {
+     border: 1px solid #ccc;
+}
+.pagination a:hover{
+     background-color: #ccc;
+     border: 1px solid #ccc;
+     color: #fff;
+}
+.pagination .current{
+     padding: 5px 9px 5px 9px;
+     background-color: #ccc;
+     border: 1px solid #ccc;
+     color: #fff;
+}
+
+
+	
+	
+/*囲み*/
+
+
+
+#kakomi01 {
+	width:100%;
+	clear:both;
+	background: #855328;
+	border:1px solid #855328;
+}
+
+#kakomi01_02 {
+	width:98%;
+	clear:both;
+	margin:1% 1% 1% 1%;
+	background: #FFFFFF;
+	color:#000000;
+}
+
+#kakomi01_03 {
+	clear:both;
+	padding:10px;
+	text-align:left;
+}
+
+
+
+/*メニュー*/
+
+
+#menu_01_01_l {
+	width:455px;
+	clear:both;
+	float:left;
+	text-align:left;
+}
+
+
+#menu_01_01_r_ri {
+	width:455px;
+	float:right;
+	text-align:right;
+}
+
+
+
+
+.box01{
+border-right:1px solid #FFFFFF;
+border-left:1px solid #FFFFFF;
+border-top:1px solid #FFFFFF;
+border-bottom:1px solid #FFFFFF;
+width:220px;
+margin-left:auto;
+margin-right:auto; 
+}
+
+
+
+

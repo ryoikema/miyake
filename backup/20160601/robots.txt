@@ -1,0 +1,4 @@
+User-Agent:*
+Disallow:
+Sitemap:http://antimiyake.html.xdomain.jp/
+sitemap.xml

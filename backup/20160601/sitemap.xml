@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>http://antimiyake.html.xdomain.jp/
+</loc>
+  <priority>1.0</priority>
+  <lastmod>2015-10-16T18:58:58+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://antimiyake.html.xdomain.jp/
+rireki.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-10-18T04:59:21+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://antimiyake.html.xdomain.jp/
+person.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-10-18T04:59:10+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://antimiyake.html.xdomain.jp/
+joke.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-10-16T18:58:59+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://antimiyake.html.xdomain.jp/
+music.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-10-16T18:59:00+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://antimiyake.html.xdomain.jp/
+qa.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-10-16T18:58:58+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://antimiyake.html.xdomain.jp/
+sitemap.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2015-10-16T19:02:43+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+
+</urlset>
